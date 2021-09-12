@@ -1,8 +1,8 @@
 ## Opa, Bruno aqui ! 
  <div>
   <a href="https://pa1.narvii.com/7202/dad1d37fb372393361799b9b5caa62b56724e499r1-498-315_hq.gif">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=obamis&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obamis&layout=compact&langs_count=7&theme=synthwave"/>
+  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=obamis&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="180em"  width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obamis&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
 <div style="display: inline_block">
  <div>
@@ -16,7 +16,7 @@
    <img align="center" alt="Bruno-Vue"  src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
   
   
-  <img align="right" alt="Gin-san"  width="180" height="120" src="https://pa1.narvii.com/7202/dad1d37fb372393361799b9b5caa62b56724e499r1-498-315_hq.gif">
+  <img align="right" alt="Gin-san"  width="170" height="120" src="https://pa1.narvii.com/7202/dad1d37fb372393361799b9b5caa62b56724e499r1-498-315_hq.gif">
  </div>
 
 </div>
