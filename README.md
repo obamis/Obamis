@@ -16,7 +16,7 @@
    <img align="center" alt="Bruno-Vue"  src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
   
   
-  <img align="right" alt="Gin-san"  width=50vw height=50vh src="https://pa1.narvii.com/7202/dad1d37fb372393361799b9b5caa62b56724e499r1-498-315_hq.gif">
+  <img align="right" alt="Gin-san"  width=45vw height=45vh src="https://pa1.narvii.com/7202/dad1d37fb372393361799b9b5caa62b56724e499r1-498-315_hq.gif">
  </div>
 
 </div>
