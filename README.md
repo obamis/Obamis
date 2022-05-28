@@ -1,4 +1,11 @@
 ## Opa, Bruno aqui ! 
+ <p align="center" width="100%"> 
+  <img width="100%" src= "https://media.giphy.com/media/wPyMMQ1NWpmfe/giphy.gif">
+
+ </p>
+ 
+ <hr>
+ 
  <div>
   <a href="https://pa1.narvii.com/7202/dad1d37fb372393361799b9b5caa62b56724e499r1-498-315_hq.gif">
   <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=obamis&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
